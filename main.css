@@ -1,11 +1,12 @@
 body {
   margin: 30px auto;
   max-width: 1000px;
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family: 'Baloo Bhaijaan', cursive;
   line-height: 1.5;
   padding: 10px 10px;
   text-align: center;
 }
+
 
 h1 {
   color: white;
@@ -19,6 +20,7 @@ a {
 
 body {
   background-color: black;
+
 }
 
 /* visited link */
