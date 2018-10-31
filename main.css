@@ -1,7 +1,7 @@
 body {
   margin: 30px auto;
   max-width: 1000px;
-  font-family: 'Baloo Bhaijaan', cursive;
+  font-family: 'Noto Serif', serif;
   line-height: 1.5;
   padding: 10px 10px;
   text-align: center;
@@ -17,7 +17,7 @@ h1 {
 h2 {
   color: white;
   padding: 5px 0px 5px 0px;
-  
+
 }
 }
 
