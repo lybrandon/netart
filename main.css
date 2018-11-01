@@ -7,7 +7,6 @@ body {
   text-align: center;
 }
 
-
 h1 {
   color: white;
   padding: 0px 0px 0px 0px;
@@ -17,7 +16,6 @@ h1 {
 h2 {
   color: white;
   padding: 5px 0px 5px 0px;
-
 }
 }
 
@@ -28,7 +26,6 @@ a {
 
 body {
   background-color: black;
-
 }
 
 /* visited link */
@@ -42,17 +39,19 @@ a:hover {
 }
 
 .center {
-    margin: auto;
-    width: 40%;
-    border: 5px solid coral;
-    padding: 5px;
+  margin: auto;
+  width: 40%;
+  border: 5px solid coral;
+  padding: 5px;
 }
 
 /* Top right text */
 .top-right {
-    position: absolute;
-    top: 8px;
-    right: 16px;
+  position: absolute;
+  top: 8px;
+  right: 16px;
 }
 
-.grabbing {cursor: grabbing;}
+.grabbing {
+  cursor: grabbing;
+}
